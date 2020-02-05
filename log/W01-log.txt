@@ -1,0 +1,3 @@
+OS 2020 1
+Assignments of Week 01: done!
+Learned how to install linux, use vi, sed and awk, etc.
