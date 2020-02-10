@@ -1,0 +1,3 @@
+OS 2020 1
+Assignments of Week 02: done!
+Learned how to compile, edit, and understand C. I also managed to encrypt my data using gpg. The file name is osyoga.txt.gpg
