@@ -1,3 +1,18 @@
-OS 2020 1
-Assignments of Week 02: done!
-Learned how to compile, edit, and understand C. I also managed to encrypt my data using gpg. The file name is osyoga.txt.gpg
+-----BEGIN PGP MESSAGE-----
+
+hQIMAyLOHpF+peiqAQ/+PRv6otiefh0z1rEvg/Gnu8sRg8XzgSPRksornH1fnmN5
+5XEGYbvQ+yxwiEJAEnaB2jiinX4O79arW+Ec1axNlc6p+3faH161MMg8Gxie4zJU
+cTbqekAXLNUs3BvwE8CZBSoI/rrN18/mDowp7ACFrPXlW9CNT5apzY2UqrmGGoO9
+ehS6jSbWnn2S62s4KgjgS2+6I2n47Xya4Lt93VyTqB7592Uuq+Pj8BzsJ34llSgk
+ctqPIt9P6fH3MpzptfH2N069UPHqVAi0+W2Iz1oOAnT9HLfN4RdV0re79n92aleB
+K/K4io9zBKy/glzU173lqjKyJXCOvrLu9dXzlWrPQXkPsurasb0qwa5GkXRcXdIF
+AWJCs9SwmYuoM+b2FOah6Q4gFjZjSV53FlHtxWZsmAzz1bmdCQ97arq11sIbM1Dy
+gAzUmSSl7uTjSHGrF6E8M+BH2LC1mDDYc6T/1h5Dw86p7KW/1EQl5ieLendABEic
+zscXjMEO1PDJHMTeQpQnNM1odhEeFvyI9w2n4QLDCP5nv8ZgHS2u8sZDPYesuhKc
+XDcA5HssnjMq7p16Ztt2QKurTa1JYqmINGBnO5PwrQMo1X4orhTzTDLf+aokk2So
+I2LVepp4zDR+Q1DihrJnk8ToPQ2DilIzKD1QJa3lCqVHjFiO2Kwnbxw54soIJZXS
+cAFjWnWU6egZzmgNKl0nFJ4R/cK0wt3VD1RWYraR0IXCwLLUrrY7uoGFxZTL50Eo
+r04/3KG55TJ30vx/iHHqky76yuqt4fIamSijOGs1x72boaDtOi2U8OPW26mktV3E
+0VvefA4GjGNwNtFEKffq94o=
+=d3U8
+-----END PGP MESSAGE-----
