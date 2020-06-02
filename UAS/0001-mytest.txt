@@ -10,11 +10,15 @@ $ PS1="\$(eval \$PSTAMP)"
 200528-182103-2e75-UAS/> date
 Thu May 28 18:21:12 WIB 2020
 200528-182112-56d9-UAS/> gpg2 --list-keys
-gpg: directory `/home/fasilkom/mahasiswa/m/muhamad.yoga/.gnupg' created
-gpg: new configuration file `/home/fasilkom/mahasiswa/m/muhamad.yoga/.gnupg/gpg.conf' created
-gpg: WARNING: options in `/home/fasilkom/mahasiswa/m/muhamad.yoga/.gnupg/gpg.conf' are not yet active during this run
-gpg: keyring `/home/fasilkom/mahasiswa/m/muhamad.yoga/.gnupg/pubring.gpg' created
-gpg: /home/fasilkom/mahasiswa/m/muhamad.yoga/.gnupg/trustdb.gpg: trustdb created
+/home/fasilkom/mahasiswa/m/muhamad.yoga/.gnupg/pubring.gpg
+----------------------------------------------------------
+pub   4096R/BFE1DAE5 2020-04-06
+uid       [ unknown] Muhamad Yoga Mahendra (A-Muhamad Yoga Mahendra-1806205256-aceyoga) <ace.yoga0@gmail.com>
+sub   4096R/F25B613C 2020-04-06
+
+pub   4096R/67DF6DDE 2020-02-13 [expires: 2021-02-12]
+uid       [ unknown] Operating Systems (OS) <operatingsystems@vlsm.org>
+sub   4096R/44170902 2020-02-13 [expires: 2021-02-12]
 200528-182120-fdc9-UAS/> exit
 exit
 
