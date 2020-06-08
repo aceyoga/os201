@@ -1,5 +1,5 @@
 Script started on Thu 28 May 2020 06:20:34 PM WIB
-muhamad.yoga@badak:~/UAS$ PS1="$ "User
+muhamad.yoga@badak:~/UAS$ PS1="$ "
 $ echo $GitHubUser
 aceyoga
 $ echo $PSTAMP
@@ -22,4 +22,5 @@ sub   4096R/44170902 2020-02-13 [expires: 2021-02-12]
 200528-182120-fdc9-UAS/> exit
 exit
 
-Script done on Thu 28 May 2020 06:21:40 PM WIB
+Script done on Thu 28 May 2020 06:21:40 PM WIB 
+gpg2 -o 0002-mytest.txt.asc -e -a -r operatingsystems@vlsm.org -r ace.yoga0@gmail.com -s 0001-mytest.txt
