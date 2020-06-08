@@ -23,4 +23,3 @@ sub   4096R/44170902 2020-02-13 [expires: 2021-02-12]
 exit
 
 Script done on Thu 28 May 2020 06:21:40 PM WIB 
-gpg2 -o 0002-mytest.txt.asc -e -a -r operatingsystems@vlsm.org -r ace.yoga0@gmail.com -s 0001-mytest.txt
